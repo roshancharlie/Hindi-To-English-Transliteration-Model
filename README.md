@@ -45,6 +45,8 @@ The implementation of the transliteration model requires the following dependenc
 - Python 
 - Keras 
 - NumPy
+- Tensorflow
+- Pandas
 
 Please ensure that these dependencies are installed before running the code.
 
